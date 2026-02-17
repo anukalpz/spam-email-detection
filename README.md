@@ -1,7 +1,7 @@
 # 🚀 Spam Email Detection System
 
 🔗 **Live Demo:**  
-👉 https://spam-email-detection-aaryan251006.streamlit.app
+👉 https://spam-email-detection-anukalpz.streamlit.app
 
 🚀 A real-time **Spam Email Detection Web Application** built using **Machine Learning and NLP**, deployed with **Streamlit**.
 
